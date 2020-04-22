@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+class hello{
+    func printed()
+    {
+        print("hello")
+    }
+}
